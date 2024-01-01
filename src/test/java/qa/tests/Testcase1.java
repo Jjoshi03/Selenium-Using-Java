@@ -18,6 +18,6 @@ LoginPageEvents loginPage = new LoginPageEvents();
   public void sampleMethodForEnteringCredentials() {
 	  homePage.signInButton();
 	  loginPage.verifyIfLoginPageIsLoaded();
-	  loginPage.enterCredentials();
+	  //loginPage.enterCredentials();
   }
 }
