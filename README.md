@@ -17,4 +17,4 @@ _mvn test -DBrowser=Chrome -DEnvironment=DEV_
 
 
 ## Automation project framework overview
-![https://github.com/Jjoshi03/Selenium-Using-Java/assets/106354033/8cc61aac-3904-4b8b-9a4b-e89ff242dba4][image]
+!(https://github.com/Jjoshi03/Selenium-Using-Java/assets/106354033/8cc61aac-3904-4b8b-9a4b-e89ff242dba4)[image]
